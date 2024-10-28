@@ -1,8 +1,9 @@
 # Hello there 👋
 
 <img src= "resources\header_image.jpg" alt="Starry Night Over the Rhône">
-
+<p align="center">
 ``` Beauty lies in the eyes of the beholder ```
+</p>
 ## About me
 Hello there 👋. I'm Arnav Upadhyay, a 19 year old college student studying at Manipal Institute of Technology. I love learning new things and I have a particular interest in visualising neural networks, Regenerative Finance, Drones and just trying to solve the world's problems. I am still at the learning stage and there are lots of good things I am yet to do. Thankyou for visiting! 
 ## Socials 
