@@ -5,7 +5,7 @@
 ```Beauty lies in the eyes of the beholder```
 
 ## About me
-Hello there 👋. I'm Arnav Upadhyay, a 19 year old college student studying at Manipal Institute of Technology. I love learning new things and I have a particular interest in visualising Neural Networks, Robotics, Drones and just trying to solve the world's problems. I am still at the learning stage and there are lots of good things I am yet to do. Thankyou for visiting! 
+Hello there 👋. I'm Arnav Upadhyay, a 20 year old college student studying at Manipal Institute of Technology. I love learning new things and I have a particular interest in visualising Neural Networks, Robotics, Drones and just trying to solve the world's problems. I am still at the learning stage and there are lots of good things I am yet to do. Thankyou for visiting! 
 ## Socials 
 <div align="left">
   <a href="https://www.linkedin.com/in/arnav-upadhyay-8a3a31251/" target="_blank">
